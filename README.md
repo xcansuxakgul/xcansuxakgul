@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am third grade of mathematical engineering at YTU. I am currently improving myself in AI. 
+I am senior grade of mathematical engineering at YTU. I am currently improving myself in AI. 
 - 💬 Ask me about AI, ML, Python, or any topics
 - 📫 How to reach me: eminecansuakgul@gmail.com
 
